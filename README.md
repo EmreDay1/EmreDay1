@@ -2,4 +2,4 @@
 
 Just a Highschool student 
 
-Swift, Julia Python
+Working with and learning: Swift, Julia, Python
