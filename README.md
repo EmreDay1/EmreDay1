@@ -1,5 +1,5 @@
-### Hi there 👋
+### Emre Dayangaç
 
-Just a Highschool student 
-Swift, Python, Java, Julia
-.)
+#### Just a Highschool student 
+#### Swift, Python, Java, Julia
+#### .)
