@@ -1,5 +1,5 @@
 #  Hi there I'm Emre👋
 
-Just a Highschool student 
+#### Just a Highschool student 
 
-Working with and learning: Swift, Julia, Python, JS
+#### Working with and learning: Swift, Julia, Python, JS
