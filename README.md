@@ -6,7 +6,7 @@ Cad&Code.)
 Python, Julia, Swift, Javascript, React, Fusion360
 
 ## Learning
-Java 
+Java, KiCad
 
 
 
