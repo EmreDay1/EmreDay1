@@ -9,5 +9,4 @@ Python, Julia, Swift, Javascript, React, Fusion360
 Java, KiCad
 
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EmreDay1?cardType=level&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![EmreDay1's Stats](https://github-readme-stats.vercel.app/api?username=EmreDay1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
