@@ -9,4 +9,4 @@ Python, Julia, Swift, Javascript, React, Fusion360
 Java, KiCad
 
 
-![EmreDay1's Stats](https://github-readme-stats.vercel.app/api?username=EmreDay1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![EmreDay1's Stats](https://github-readme-stats.vercel.app/api?username=EmreDay1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=EmreDay1&theme=default&show_icons=true&hide_border=true&count_private=true)
