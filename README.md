@@ -1,6 +1,6 @@
 #  Hi there I'm Emre👋
 
-Cad&Code.)
+Electronics&Cad&Code
 
 ## Currently Know
 Python, Julia, Swift, Javascript, React, Fusion360
