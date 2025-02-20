@@ -3,7 +3,7 @@
 Electronics,Cad, Code
 
 ## Currently Know
-Python, Julia, Swift, Javascript, Typescript, React, Fusion360
+Python, Julia, Swift, Javascript, Typescript,GCODE, Fusion360
 
 ## Learning
 Java, KiCad
