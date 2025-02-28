@@ -1,6 +1,6 @@
 #  Hi there I'm Emre👋
 
-Electronics,Cad, Code
+Electronics, Cad, Code
 
 ## Currently Know
 Python, Julia, Swift, Javascript, Typescript,GCODE, Fusion360, KiCad
