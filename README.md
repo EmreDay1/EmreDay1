@@ -1,5 +1,7 @@
 #  Hi there I'm Emre👋
 
+I like creating custom libraries for my usecase rather than making my usecase conform to existing libraries
+
 ## Currently Know
 Python, Julia, Swift, Javascript, Typescript, React, Java, GCODE, Fusion360, KiCad
 
